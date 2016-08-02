@@ -42,4 +42,17 @@ public class SphereCommands : MonoBehaviour
         // Just do the same logic as a Select gesture.
         OnSelect();
     }
+
+    ////hide bone object
+    //void hideBone()
+    //{
+    //    GetComponent<Renderer>.enabled = false;
+
+    //}
+
+    ////show bone object
+    //void showBone()
+    //{
+
+    //}
 }
